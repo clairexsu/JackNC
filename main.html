@@ -41,6 +41,14 @@
             document.getElementById('jack').style.height = jackHeight.toString() + "px";
             document.getElementById('jack').style.width = jackWidth.toString() + "px";
         }
+
+        // Spin on hover
+        document.getElementById("jack").onmouseenter = function () {
+            document.getElementById("jack").classList.add("rotating");
+        }
+        document.getElementById("jack").onmouseleave = function () {
+            document.getElementById("jack").classList.remove("rotating");
+        }
        
         </script>
         
