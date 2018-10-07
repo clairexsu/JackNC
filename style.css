@@ -1,6 +1,6 @@
 body {
     background-image: url(gym.jpg);
-    background-size: cover;
+    background-size: contain;
 }
 h2{
     font-size: 200%;
