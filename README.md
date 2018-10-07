@@ -12,7 +12,7 @@
             JackNC
         </h2>
         <p>
-                go from smol to swoll
+                go from smol to SWOLL
         </p>
     
         <h1>YEET</h1>
