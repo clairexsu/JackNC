@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+h2{
+    font-size: 200%;
+    font-family: Verdana;
+}
+h1 {
+    color: blue;
+}
+#jack
+{
+    width: 100px;
+    height: 150px;
+}
+#circle {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%
+  }
