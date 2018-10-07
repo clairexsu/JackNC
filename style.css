@@ -9,8 +9,8 @@ h2{
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 p{
-    color: black;
-    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 h1 {
     color: white;
