@@ -5,6 +5,12 @@ body {
 h2{
     font-size: 200%;
     font-family: Verdana;
+    color:black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+p{
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 h1 {
     color: white;
